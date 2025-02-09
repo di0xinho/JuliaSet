@@ -24,7 +24,7 @@ Implementacja zrównoleglenia została oparta na podziale pracy pomiędzy wątki
 ## Wymagania systemowe
 - **System operacyjny:** Windows / Linux / macOS
 - **Biblioteki:** Qt 5/6, CMake
-- **Komponenty dodatkowe:** Wątkowość (std::thread)
+- **Komponenty dodatkowe:** Wielowątkowość (std::thread)
 
 ## Wyniki skalowalności
 Wszystkie testy wydajnościowe zostały przeprowadzone w dwóch środowiskach (na komputerze desktopowym i na laptopie). Poniżej znajdują się specyfikacje obu maszyn:
