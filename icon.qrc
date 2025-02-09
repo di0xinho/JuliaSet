@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/juliaset.png</file>
+        <file>resources/Fonts/Roboto-Bold.ttf</file>
+        <file>resources/Fonts/Roboto-Regular.ttf</file>
+        <file>resources/Fonts/Roboto-Thin.ttf</file>
+    </qresource>
+</RCC>
